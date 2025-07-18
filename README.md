@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👨‍💻 Naveen Prasath — Full Stack Developer
 
-<!--
-**m-naveenprasath/m-naveenprasath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Naveen Prasath**, a passionate and evolving **Full Stack Developer** with 2+ years of experience building robust backend systems using **Python (Django, Flask, FastAPI)** and creating intuitive frontend interfaces using **React.js**.
 
-Here are some ideas to get you started:
+I specialize in developing scalable APIs, integrating modern caching systems like **Redis**, and automating workflows using **Playwright** and cloud tools. I'm also on a journey to master full-stack development with **Node.js**, **MongoDB**, and **Docker**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend:**
+- 🐍 Python (Django, DRF, Flask, FastAPI)
+- 🔁 Redis for caching
+- 🗄 PostgreSQL, MySQL, SQLite
+
+**Frontend:**
+- ⚛ React.js
+- 🖌 HTML5, CSS3, JavaScript (ES6+)
+- 📦 TailwindCSS, Bootstrap
+
+**DevOps & Tools:**
+- 🐳 Docker, Git, GitHub Actions
+- ☁ AWS (S3, EC2), CI/CD Pipelines
+- 🧪 Playwright Automation
+
+**Data Tools:**
+- 🧮 NumPy, Pandas
+- 📊 Excel Automation with Python
+
+**Learning:**
+- 🛠️ Node.js, Express.js
+- 🍃 MongoDB
+- 🎥 Planning a YouTube journey soon!
+
+---
+
+## 🔥 Recent Projects
+
+### 📊 SEO Analytics Dashboard
+> A modular system designed to analyze SEO KPIs and integrate with **CM360** and **Sales Reports**.
+
+- 📁 Modular backend built in Django
+- 🌐 Dedicated React.js frontend for SEO metrics
+- ☁ Automated Excel upload, parsing, and data mapping
+- 🚀 Redis-powered caching for blazing speed
+
+### 🛒 Zepto Order Automation
+> Automated product ordering using **Playwright** and **CDP**, wrapped with a **FastAPI** backend.
+
+- 🎯 Headless Chrome automation
+- 📦 Handles login, product selection, checkout
+- 📘 API-ready for integration
+
+---
+
+## 🧠 Currently Exploring
+
+- Full Stack MERN Projects (MongoDB + Express + React + Node)
+- Advanced Redis use cases in production
+- YouTube channel to share tech & dev tips
+
+---
+
+## 📫 Let's Connect
+
+- 🌍 Portfolio: [Coming Soon]
+- 💼 LinkedIn: [linkedin.com/in/naveen-prasath](https://www.linkedin.com/in/naveen-prasath)
+- ✉️ Email: naveenprasath.dev@gmail.com
+- 💬 GitHub Discussions: Feel free to open an issue or start a conversation!
+
+---
+
+## 📌 GitHub Stats
+
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenprasath&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenprasath&layout=compact&theme=radical)
+
+---
+
