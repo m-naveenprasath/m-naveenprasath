@@ -37,7 +37,7 @@ I specialize in developing scalable APIs, integrating modern caching systems lik
 ## 🔥 Recent Projects
 
 ### 📊 SEO Analytics Dashboard
-> A modular system designed to analyze SEO KPIs and integrate with **CM360** and **Sales Reports**.
+> A modular system designed to analyze SEO APIs and integrate with **CM360** and **Sales Reports**.
 
 - 📁 Modular backend built in Django
 - 🌐 Dedicated React.js frontend for SEO metrics
@@ -63,9 +63,9 @@ I specialize in developing scalable APIs, integrating modern caching systems lik
 
 ## 📫 Let's Connect
 
-- 🌍 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [linkedin.com/in/naveen-prasath](https://www.linkedin.com/in/naveen-prasath)
-- ✉️ Email: naveenprasath.dev@gmail.com
+- 🌍 Portfolio: https://m-naveenprasath.github.io/profile/
+- 💼 LinkedIn: [linkedin.com/in/naveen-prasath](www.linkedin.com/in/naveen-prasath-1bbbb4213)
+- ✉️ Email: naveenprasathofficial.work@gmail.com
 - 💬 GitHub Discussions: Feel free to open an issue or start a conversation!
 
 ---
