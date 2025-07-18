@@ -70,10 +70,5 @@ I specialize in developing scalable APIs, integrating modern caching systems lik
 
 ---
 
-## 📌 GitHub Stats
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenprasath&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenprasath&layout=compact&theme=radical)
-
----
 
