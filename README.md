@@ -64,7 +64,7 @@ I specialize in developing scalable APIs, integrating modern caching systems lik
 ## 📫 Let's Connect
 
 - 🌍 Portfolio: https://m-naveenprasath.github.io/profile/
-- 💼 LinkedIn: [linkedin.com/in/naveen-prasath](www.linkedin.com/in/naveen-prasath-1bbbb4213)
+- 💼 LinkedIn: [linkedin.com/in/naveen-prasath](https://linkedin.com/in/naveen-prasath-1bbbb4213)
 - ✉️ Email: naveenprasathofficial.work@gmail.com
 - 💬 GitHub Discussions: Feel free to open an issue or start a conversation!
 
