@@ -1,6 +1,6 @@
 # 👨‍💻 Naveen Prasath — Full Stack Developer
 
-Hi there! I'm **Naveen Prasath**, a passionate and evolving **Full Stack Developer** with 2+ years of experience building robust backend systems using **Python (Django, Flask, FastAPI)** and creating intuitive frontend interfaces using **React.js**.
+Hi there! I'm **Naveen Prasath**, a passionate and evolving **Full Stack Developer** with 3+ years of experience building robust backend systems using **Python (Django, Flask, FastAPI)** and creating intuitive frontend interfaces using **React.js**.
 
 I specialize in developing scalable APIs, integrating modern caching systems like **Redis**, and automating workflows using **Playwright** and cloud tools. I'm also on a journey to master full-stack development with **Node.js**, **MongoDB**, and **Docker**.
 
